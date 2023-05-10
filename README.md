@@ -1,0 +1,1 @@
+# gw-vat-desktop-uat
